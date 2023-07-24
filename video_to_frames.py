@@ -8,7 +8,6 @@ import cv2
 import numpy as np
 
 video_path = '/content/drive/MyDrive/front-video.mp4'
-
 save_path = '/content/drive/MyDrive/framesss/'
 
 cap = cv2.VideoCapture(video_path)
